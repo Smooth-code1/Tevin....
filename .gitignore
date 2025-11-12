@@ -1,0 +1,38 @@
+# Flutter/Dart/Pub
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+*.iml
+.gradle/
+/local.properties
+**/GeneratedPluginRegistrant.java
+**/gradlew
+**/gradlew.bat
+**/gradle-wrapper.jar
+
+# iOS
+**/Pods/
+**/.symlinks/
+**/DerivedData/
+**/.generated/
+Flutter/App.framework
+Flutter/Flutter.framework
+Flutter/Generated.xcconfig
+Flutter/flutter_export_environment.sh
+
+# Misc
+.idea/
+.vscode/
+*.lock
+*.log
+*.tmp
+.DS_Store
+.atom/
+.swp
